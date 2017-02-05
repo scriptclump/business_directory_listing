@@ -1,0 +1,5 @@
+%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;D:\wamp\bin\php\php5.4.16;D:\wamp\www\cakephp\pittsburgh_black_business_directory\app\Console\;
+
+
+
+%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;D:\wamp\bin\php\php5.4.16;D:\wamp\www\cakephp\icargobox\app\Console\;
