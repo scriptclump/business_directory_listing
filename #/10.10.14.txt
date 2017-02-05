@@ -1,0 +1,145 @@
+http://www.pittsburghblackdirectory.com
+http://www.pittsburghblackdirectory.com/new_site/
+http://www.pittsburghblackdirectory.com/new_site/admin/
+Username: admin
+Password: admin123
+
+Wrong values:
+=============
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/656 (Purchasing Contacts)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/662 (Purchasing Contacts)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/750  (Accounting/Bookeeping)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/222  (Arts Organizations/Educ Perf Grps)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/846  (Beauty Salons)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1740  (Bus Consults)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1372  (Bus Consults)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1280 (Bus Consults)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/571  (Business Resources)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1264 (Clothing/Boutiques)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1167
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/872 (Community Grps & Human Svcs)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1445 (Contractors)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/694 (Contractors)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1618 (Daycare)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1623 (Employ/Train)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1156 (Employ/Train)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1079 (Employ/Train)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1448 (Entertain/DJ)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1666 (Eye Glasses)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1379 (Eye Glasses)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/846 (Fashion Consult)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1452 (Fitness)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1623 (Fitness)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1382  (Gifts)
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/1623
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/931
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/481
+http://www.pittsburghblackdirectory.com/new_site/admin/businesses/edit/513
+
+
+
+
+Missing records:
+================
+URS CORPORATION/O'BRIEN KREITZBERG (Purchasing Contacts)
+SOUL PITT MEDIA (Advertise Agencies)
+OSCAR'S LTD (Advertise Specialties)
+MCG MANCHESTER CRAFTSMEN'S GUILD (Afrocentric Art/Galleries)
+KUJIONA oF WHITE'S ART GALLERY (Artists)
+CHILDREN'S MUSEUM OF PGH(Arts Organizations/Educ Perf Grps)
+MCG MANCHESTER CRAFTSMEN'S GUILD (Arts Organizations/Educ Perf Grps)
+PGH PUBLIC THEATRE O'REILLY THEATRE (Arts Organizations/Educ Perf Grps)
+THE PGH CULTURAL TRUST (Arts Organizations/Educ Perf Grps)
+NEWPORT PACK & CRATE (Auto Road Svc)
+ANGEL'S CAR CAR (Auto Sales/Service)
+AW'S DETAIL SHOP LLC (Auto Sales/Service)
+CARTER'S SVC STATION (Auto Sales/Service)
+GRANDY'S CUSTOM AUTO REPAIR(Auto Sales/Service)
+TERRY'S AUTO BODY(Auto Sales/Service)
+AUNT CHERYL'S BAKING & CATERING(Bakers/Bakery)
+DANA'S BAKERY(Bakers/Bakery)
+BBQ STU'S INC (BBQ)
+JEAN'S SOUL FOOD RESTAURANT(BBQ)
+JT'S RIB SHACK (BBQ)
+WILSON'S BAR-B-QUE (BBQ)
+BAT'S BARBER SHOP (Barber Shops)
+BIG AL'S UNISEX HAIR SALON (Barber Shops)
+BUICE'S BARBERSHOP (Barber Shops)
+STACEY'S DYNAMIC STYLING & BARBERING (Barber Shops)
+WILLIE TEE'S BARBER SHOP COMPLEX (Barber Shops)
+DANA'S STYLING SALON (Beauty Salons)
+FLOSSY'S HAIR DESIGNS(Beauty Salons)
+HAIR 'N' THERE DESIGNS UNLIMITED (Beauty Salons)
+MIMI'S HAIR TO SERVE(Beauty Salons)
+MIRIAM'S BEAUTY SALON (Beauty Salons)
+MOYE' HAIR ETC!(Beauty Salons)
+SPARKLEZ BEAUTI BAR (Beauty Salons)
+STACEY'S DYNAMIC STYLING & BARBERING (Beauty Salons)
+WILLETTE'S HAIR DESIGNS (Beauty Salons)
+AVON REPRESENTATIVE (Beauty Supplies)
+NYR ORGANIC BY JASMINE (Beauty Supplies)
+AHSEK MEDIA (Bus Consults)
+VETERAN'S BUS OUTREACH CNTR (Business Resources)
+AUNT CHERYL'S BAKING & CATERING
+JT'S RIB SHACK(Caterers)
+KAHILA'S TASTE(Caterers)
+CHUCK'S QUALITY PAINTING(Cleaning Supp & Serv)
+CLAYTON'S(Clothing/Boutiques)
+JAMIL'S GLOBAL VILLAGE (Clothing/Boutiques)
+LYDELL'S MEN'S STORE (Clothing/Boutiques)
+ROCHELLA'S ALL SEASONS UNIQUE CLOTHING (Clothing/Boutiques)
+SABRINA'S FASHION CONSULTING (Clothing/Boutiques)
+WOODSON'S SPORTING GOODS (Clothing/Boutiques)
+AFRICAN-AMERICAN WOMEN'S SPEAKER BUREAU (Community Grps & Human Svcs)
+CHILDREN'S SICKLE CELL FOUNDATION (Community Grps & Human Svcs)
+FAIR HOUSING PARTNERSHIP OF GRTR PGH (Community Grps & Human Svcs)
+PEOPLE'S OAKLAND (Community Grps & Human Svcs)
+RUTH'S WAY INC (Community Grps & Human Svcs)
+SISTER'S SAVING OURSELVES NOW (Community Grps & Human Svcs)
+A DIAMOND'S TOUCH (Concierge)
+TRACY'S PLACE (Consignment/Thrift)
+AFFORDABLE FENCING CO (Contractors)
+CHUCK'S QUALITY PAINTING(Contractors)
+CRAWFORD'S HOME IMPROVEMENTS(Contractors)
+LIVINGSTON'S (Contractors)
+MA'AT CONSTRUCTION (Contractors)
+PAV-KOTE INC (Contractors)
+PRO-TECH CHIMNEY SWEEP (Contractors)
+TONY'S LOCKSMITH & SAFE SERVICES (Contractors)
+BANKS CHILDREN'S LEARNING CTR (Daycare)
+MALAIKA LEARNING CTR (Daycare)
+BANKS PC REPAIR PLUS (Employ/Train)
+CJ'S IN THE STRIP(Entertain/DJ)
+A DIAMOND'S TOUCH (Event Plan)
+HAIR 'N' THERE DESIGNS UNLIMITED (Event Plan)
+J'AIRA PRYOR (Event Plan)
+SABRINA'S FASHION CONSULTING (Fashion Consult)
+MCDONALD'S (Fast Food)
+PARK PLAZA SUBWAY (Fast Food)
+ADRIANNE'S GIFTS(Gifts)
+JAKI'S JAZZY GIFT BASKETS (Gifts)
+NYR ORGANIC BY JASMINE (Gifts)
+CHILDREN'S HOSPITAL OF PITTSBURGH OF UPMC (Health Services)
+MAGEE WOMEN'S HOSPITAL (Health Services)
+THE MIDWIFE CENTER FOR BIRTH & WOMEN'S HEALTH (Health Services)
+MT CARMEL BAPTIST CHURCH - N VERSAILLES (2014 Church Directory)
+SHENANGO VALLEY INTERDENOMINATIONAL CLERGYWOMEN'S ALLIANCE INC (2014 Church Directory)
+SIXTH MOUNT ZION BAPTIST CHURCH (2014 Church Directory)
+THE LORD'S CHURCH (2014 Church Directory)
+THE LORD'S TABERNACLE (2014 Church Directory)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
